@@ -15,7 +15,7 @@ Automation Steps:
 •	Click **Beauty & MakeUp** from the menu<br />
 •	Select Lips<br />
 •	Add Lipsticks to the cart<br /><br />
-•	Click Toys & Sports from the menu<br />
+•	Click **Toys & Sports** from the menu<br />
 •	Select Plush & Stuffed Animals<br />
 •	Add a Toy<br /><br />
 •	Click **Personal Care** from the menu<br />
