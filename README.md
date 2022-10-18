@@ -5,13 +5,10 @@ URL: chaldal.com
 
 Automation Steps:
 
-•	Visit this site
-
-•	Click **Offers** from the menu
-
-•	Click food, then select Chips & Pretzels
-
-•	Add a Food to the cart
+•	Visit this site<br />
+•	Click **Offers** from the menu<br />
+•	Click food, then select Chips & Pretzels<br />
+•	Add a Food to the cart<br /><br />
 
 
 •	Click Foods from the menu
