@@ -7,7 +7,7 @@ Automation Steps:
 
 •	Visit this site
 
-•	Click Offers from the menu
+•	Click *Offers* from the menu
 
 •	Click food, then select Chips & Pretzels
 
